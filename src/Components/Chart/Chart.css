@@ -1,0 +1,15 @@
+.btn-group {
+    display: flex;
+    padding: 20px;
+}
+
+.btn-group>button {
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background-color: #27a844;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
